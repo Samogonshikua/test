@@ -1,21 +1,16 @@
-#
-#
-# num_profile = 1
-# wallet = "0x845874934u98"
-# balance_wallet = 0.22
-# eth_usdt = 2500
-#
-# print(f"профиль: {num_profile}, кошелек: {wallet},баланс: {balance_wallet} ETH, баланс USDT: {eth_usdt * balance_wallet}")
-#
+num_profile = 1
+wallet = "0x845874934u98"
+balance_wallet = 0.22
+eth_usdt = 2500
+
+print(f"профиль: {num_profile}, кошелек: {wallet},баланс: {balance_wallet} ETH, баланс USDT: {eth_usdt * balance_wallet}")
 
 
-# surname = "Zarev"
-# name = "Max"
-#
-#
-#
-# print(name, surname)
-# print(f"{name} {surname}")
+surname = "Zarev"
+name = "Max"
+
+print(name, surname)
+print(f"{name} {surname}")
 
 
  
